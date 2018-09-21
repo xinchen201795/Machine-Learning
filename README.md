@@ -1,4 +1,4 @@
-# Mechine-Learning
+# Machine-Learning
 List different models of machine learning      
 Learn more about each model
 ## 监督性学习和非监督性学习
